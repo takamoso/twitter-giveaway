@@ -1,0 +1,13 @@
+{
+  "name": "twitter-giveaway",
+  "main": "index.js",
+  "type": "module",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.32.1",
+    "yargs": "^17.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
